@@ -3,13 +3,13 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
-#version: 2
+version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Adrián Viñuela Udaondo
+title: Ingeniero industrial
+email: adrivu@gmail.com
+phone: +34 699 45 59 34
 
 # Dark Mode (true/false/never)
 darkmode: false
