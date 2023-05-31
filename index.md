@@ -36,3 +36,6 @@ Para links meter exclamación texto entre corchetes y ruta de imagen entre paren
 puedes hacer como antes y poner exclamacion texto entre corchetes y ancla entre corchetes si al final poner ancla entre corchetes dos puntos y la ruta, mas un titulo alternativo entre comillas
 
 si escribes una barra al reves, no la que está en el 7, se pueden ver las comillas y todo
+
+
+prueba
