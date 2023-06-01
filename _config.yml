@@ -9,7 +9,7 @@ version: 2
 name: Adrián Viñuela Udaondo
 title: Ingeniero industrial
 email: adrivu@gmail.com
-phone: +34 699 45 59 34
+#phone: +34 699 45 59 34
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -47,12 +47,12 @@ darkmode: false
 # google_analytics: "UA-00000000-0"
 
 #About Section
-about_title: Sobre mi #esto iba con asteristo
+about_title: Sobre mí #esto iba con asteristo
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   ¡Hola buenas! Soy Adrián Viñuela y estoy haciendo unas pruebas para crear una página web. Mi idea es conseguir aprender sobre ciertas áreas que siempre me han interesado y tener esta web como una especie de apuntes, a la vez que me sirve de portfolio.
   
-  Los temas que vamos a tratar (o al menos por los que vamos a empezar) son la <mark>estadística</mark> y el <mark>machine learning</mark>
+  Los temas que vamos a [tratar](pages/prueba.md) (o al menos por los que vamos a empezar) son la <mark>estadística</mark> y el <mark>machine learning</mark>
 
 content:
   - title: Projects # Title for the section
