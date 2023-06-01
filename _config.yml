@@ -46,8 +46,8 @@ darkmode: false
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
 
-About Section
-about_title: Sobre mi #esto iba con asteristo
+#About Section
+#about_title: Sobre mi #esto iba con asteristo
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   ¡Hola buenas! Soy Adrián Viñuela y estoy haciendo unas pruebas para crear una página web. Mi idea es conseguir aprender sobre ciertas áreas que siempre me han interesado y tener esta web como una especie de apuntes, a la vez que me sirve de portfolio.
@@ -78,11 +78,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
+        title: NordCasting
         link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Ingeniero de procesos
+        caption: Julio 2021 - Presente
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
