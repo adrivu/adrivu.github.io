@@ -4,6 +4,8 @@
 
 layout: home
 ---
-Hola, esto es una prueba
+Hola, esto es una prueba.
+
+Esto será mi landin page. Voy a empezar por unos [apuntes de markdown](apuntes_markdown.md)
 
 [Prueba del enlace](prueba.md)
