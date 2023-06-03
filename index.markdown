@@ -4,3 +4,4 @@
 
 layout: home
 ---
+Hola, esto es una prueba
