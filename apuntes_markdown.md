@@ -2,9 +2,9 @@
 layout: page
 ---
 
-## Markdown
 
-En esta sección encontraréis cómo escribir la sintáxis básica de markdown, que será la empleada para escribir este blog
+
+En esta sección encontraréis cómo escribir la sintáxis básica de __markdown__, que será la empleada para escribir este blog
 
 ---
 
