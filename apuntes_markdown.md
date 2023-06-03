@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: default
+title: Markdown
 ---
 
 
