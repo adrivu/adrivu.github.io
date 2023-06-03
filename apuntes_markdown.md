@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Markdown
+## Markdown
 
 En esta sección encontraréis cómo escribir la sintáxis básica de markdown, que será la empleada para escribir este blog
 
@@ -54,6 +54,8 @@ Para crear texto en negrita, tienes que rodearlo o de dos asteriscos o de dos gu
 \_\_ejemplo2\_\_
 __ejemplo2__
 
+---
+
 ### Cursiva
 
 Se escribe igual que la negrita pero con sólamente uno de los elementos anteriores, es decir, sólo un asterisco o barrabaja.
@@ -62,6 +64,8 @@ Se escribe igual que la negrita pero con sólamente uno de los elementos anterio
 *ejemplo1*
 \_ejemplo2\_
 _ejemplo2_
+
+---
 
 ### Negrita y cursiva
 
@@ -72,9 +76,13 @@ Este caso es similar a los anteriores, pero con tres elementos.
 \_\_\_ejemplo2\_\_\_
 ___ejemplo2___
 
+---
+
 ### Código en una línea
 
 Para esto, basta con escribir la línea entre comillas invertidas, que está en la misma tecla que el fin de interrogación.
 
 \'ejemplo de código\'
 `ejemplo de código`
+
+---
