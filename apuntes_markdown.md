@@ -30,8 +30,8 @@ Escribiendo \#\#\#\#\#\#Encabezado 6
 
 Lo primero, para crear otro párrafo basta con dejar una línea en blanco. Recordar no poner nunca sangrías si no es una lista.
 
-Por otra parte, para crear un salto de línea
-como este, símplemente se debe introducir un salto de línea pulsando intro donde se quiera.
+Por otra parte, para crear un salto de línea  
+como este, símplemente se debe introducir dos o más espacios en blanco y luego un salto de línea pulsando intro donde se quiera.
 
 ---
 
@@ -40,7 +40,9 @@ como este, símplemente se debe introducir un salto de línea pulsando intro don
 Para crear las líneas horizontales que estamos colocando como separadores de los diferentes apartados, basta con colocar tres guiones, barrabajas o asteriscos seguidos. No hay diferencias entre emplear uno u otro y nos dan todos el mismo resultado.
 
 \*\*\*
+
 \-\-\-
+
 \_\_\_
 
 ---
@@ -50,8 +52,11 @@ Para crear las líneas horizontales que estamos colocando como separadores de lo
 Para crear texto en negrita, tienes que rodearlo o de dos asteriscos o de dos guines bajos.
 
 \*\*ejemplo1\*\*
+
 **ejemplo1**
+
 \_\_ejemplo2\_\_
+
 __ejemplo2__
 
 ---
