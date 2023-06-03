@@ -2,6 +2,8 @@
 layout: page
 ---
 
+# Markdown
+
 En esta sección encontraréis cómo escribir la sintáxis básica de markdown, que será la empleada para escribir este blog
 
 ---
@@ -33,7 +35,9 @@ como este, símplemente se debe introducir un salto de línea pulsando intro don
 
 ---
 
-Para crear las línear horizontales que estamos colocando como separadores de los diferentes apartados, basta con colocar tres guiones, barrabajas o asteriscos seguidos. No hay diferencias entre emplear uno u otro y nos dan todos el mismo resultado.
+### Líneas horizontales
+
+Para crear las líneas horizontales que estamos colocando como separadores de los diferentes apartados, basta con colocar tres guiones, barrabajas o asteriscos seguidos. No hay diferencias entre emplear uno u otro y nos dan todos el mismo resultado.
 
 \*\*\*
 \-\-\-
