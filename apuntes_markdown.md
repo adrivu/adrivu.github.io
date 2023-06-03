@@ -2,9 +2,8 @@
 layout: page
 ---
 
-# Markdown
-
 En esta sección encontraréis cómo escribir la sintáxis básica de markdown, que será la empleada para escribir este blog
+
 ---
 
 ### Encabezados
@@ -22,6 +21,7 @@ Escribiendo \#\#\#\#Encabezado 4
 Escribiendo \#\#\#\#\#Encabezado 5
 ###### Encabezado 6
 Escribiendo \#\#\#\#\#\#Encabezado 6
+
 ---
 
 ### Párrafos y cambios de línea
@@ -30,6 +30,7 @@ Lo primero, para crear otro párrafo basta con dejar una línea en blanco. Recor
 
 Por otra parte, para crear un salto de línea
 como este, símplemente se debe introducir un salto de línea pulsando intro donde se quiera.
+
 ---
 
 Para crear las línear horizontales que estamos colocando como separadores de los diferentes apartados, basta con colocar tres guiones, barrabajas o asteriscos seguidos. No hay diferencias entre emplear uno u otro y nos dan todos el mismo resultado.
@@ -37,6 +38,7 @@ Para crear las línear horizontales que estamos colocando como separadores de lo
 \*\*\*
 \-\-\-
 \_\_\_
+
 ---
 
 ### Negrita
@@ -57,7 +59,7 @@ Se escribe igual que la negrita pero con sólamente uno de los elementos anterio
 \_ejemplo2\_
 _ejemplo2_
 
-## Negrita y cursiva
+### Negrita y cursiva
 
 Este caso es similar a los anteriores, pero con tres elementos.
 
