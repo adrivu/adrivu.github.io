@@ -5,3 +5,5 @@
 layout: home
 ---
 Hola, esto es una prueba
+
+[Prueba del enlace](prueba.md)
