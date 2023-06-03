@@ -77,4 +77,4 @@ ___ejemplo2___
 Para esto, basta con escribir la línea entre comillas invertidas, que está en la misma tecla que el fin de interrogación.
 
 \'ejemplo de código\'
-'ejemplo de código'
+`ejemplo de código`
