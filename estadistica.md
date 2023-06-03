@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Prueba
-permalink: /Prueba/
+title: Estadística
+permalink: /Estadística/
 ---
 
 Hola a todos. Soy Adrián Viñuela Udaondo, y esto es mi primera prueba de creación de una página web. Aquí pienso ir colocando todo lo que vaya aprendiendo a lo largo de este tiempo.
