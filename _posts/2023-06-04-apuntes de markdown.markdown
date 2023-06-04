@@ -54,10 +54,10 @@ __ejemplo2__
 ### Cursiva
 Se escribe igual que la negrita pero con sólamente uno de los elementos anteriores, es decir, sólo un asterisco o barrabaja.
 
-\*ejemplo1\*
-*ejemplo1*
-\_ejemplo2\_
-_ejemplo2_
+\*ejemplo1\*  
+*ejemplo1*  
+\_ejemplo2\_  
+_ejemplo2_  
 
 ---
 ### Negrita y cursiva
@@ -83,3 +83,12 @@ Si el texto que vamos a usar ya tiene comillas, debemos utilizar comillas dobles
 ``texto con \`comillas\` ``
 
 ---
+### Bloques de código
+
+Para añadir más de una línea de código, basta con colocar o 4 espacios en blanco o tabular.
+
+  x=5
+  y=3
+  print(sum(x+y))
+
+### Enlaces
