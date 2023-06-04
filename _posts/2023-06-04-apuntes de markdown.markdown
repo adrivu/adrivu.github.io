@@ -86,8 +86,13 @@ Si el texto que vamos a usar ya tiene comillas, debemos utilizar comillas dobles
 ### Bloques de código
 
 Para añadir más de una línea de código, basta con colocar o 4 espacios en blanco o tabular.
-    x=5
-    y=3
-    print(sum(x+y))
+```
+x=5
+y=3
+print(sum(x+y))
+```
 
+---
 ### Enlaces
+
+Para colocar enlaces
