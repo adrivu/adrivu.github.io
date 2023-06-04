@@ -86,7 +86,7 @@ Para esto, basta con escribir la línea entre comillas invertidas, que está en 
 
 Si el texto que vamos a usar ya tiene comillas, debemos utilizar comillas dobles.
 
-\"texto con \`comillas\`\"
-"texto con `comillas` "
+\"texto con \`comillas\` \"
+"texto con \`comillas\` "
 
 ---
