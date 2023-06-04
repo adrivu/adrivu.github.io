@@ -53,10 +53,10 @@ Para crear texto en negrita, tienes que rodearlo o de dos asteriscos o de dos gu
 **ejemplo1**  
 \_\_ejemplo2\_\_  
 __ejemplo2__  
+
 ---
 
 ### Cursiva
-
 Se escribe igual que la negrita pero con sólamente uno de los elementos anteriores, es decir, sólo un asterisco o barrabaja.
 
 \*ejemplo1\*
