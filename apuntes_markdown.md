@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Markdown
-exclude_from_nav: true
+nav_exclude: true 
 ---
 
 
