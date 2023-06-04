@@ -64,9 +64,9 @@ _ejemplo2_
 
 Este caso es similar a los anteriores, pero con tres elementos.
 
-\*\*\*ejemplo1\*\*\*
-***ejemplo1***
-\_\_\_ejemplo2\_\_\_
+\*\*\*ejemplo1\*\*\*  
+***ejemplo1***  
+\_\_\_ejemplo2\_\_\_  
 ___ejemplo2___
 
 ---
@@ -74,12 +74,12 @@ ___ejemplo2___
 
 Para esto, basta con escribir la línea entre comillas invertidas, que está en la misma tecla que el fin de interrogación.
 
-\'ejemplo de código\'
+\'ejemplo de código\'  
 `ejemplo de código`
 
 Si el texto que vamos a usar ya tiene comillas, debemos utilizar comillas dobles.
 
-\`\`texto con \`comillas\` \`\` 
+\`\`texto con \`comillas\` \`\`  
 ``texto con \`comillas\` ``
 
 ---
