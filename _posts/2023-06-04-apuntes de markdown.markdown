@@ -39,10 +39,8 @@ como este, símplemente se debe introducir dos o más espacios en blanco y luego
 
 Para crear las líneas horizontales que estamos colocando como separadores de los diferentes apartados, basta con colocar tres guiones, barrabajas o asteriscos seguidos. No hay diferencias entre emplear uno u otro y nos dan todos el mismo resultado.
 
-\*\*\*
-
-\-\-\-
-
+\*\*\*  
+\-\-\-  
 \_\_\_
 
 ---
@@ -51,14 +49,10 @@ Para crear las líneas horizontales que estamos colocando como separadores de lo
 
 Para crear texto en negrita, tienes que rodearlo o de dos asteriscos o de dos guines bajos.
 
-\*\*ejemplo1\*\*
-
-**ejemplo1**
-
-\_\_ejemplo2\_\_
-
-__ejemplo2__
-
+\*\*ejemplo1\*\*  
+**ejemplo1**  
+\_\_ejemplo2\_\_  
+__ejemplo2__  
 ---
 
 ### Cursiva
@@ -94,4 +88,5 @@ Si el texto que vamos a usar ya tiene comillas, debemos utilizar comillas dobles
 
 \"texto con \`comillas\`\"
 "texto con `comillas` "
+
 ---
