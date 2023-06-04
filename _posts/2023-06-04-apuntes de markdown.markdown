@@ -100,4 +100,17 @@ print(sum(x+y))
 ---
 ### Enlaces
 
-Para colocar enlaces
+Para colocar enlaces lo que debe hacer es colocar entre corchetes el texto y después entre paréntesis la URL
+
+Esto va a ser el enlace: \[Texto enlace\]\(URL\)  
+Esto va a ser el enlace: [Texto enlace](URL)
+
+Si quieres que se vea la URL, deber poner el texto entre paréntesis  
+\<URL\>  
+<URL>
+
+De esta manera también puedes colocar emails muy fácilmente.  
+\<adrivu@gmail.com\>  
+<adrivu@gmail.com>
+
+Por último, también puedes hacer noseque de unos encabezados que miro luego.
