@@ -113,6 +113,7 @@ Para una cita, basta con colocar el símbolo mayor que antes del texto. También
 \> Solo sé que no se nada  
 > Solo sé que no se nada
 
+---
 ### Listas
 
 Hay dos tipos de listas. Las desordenadas debes colocar antes de cada elemento un asterisco, guion o suma
@@ -121,9 +122,9 @@ Hay dos tipos de listas. Las desordenadas debes colocar antes de cada elemento u
 - Segundo elemento
 * Tercer elemento
 
-\+ Primer elemento
-\- Segundo elemento
-\* Tercer elemento
+\+ Primer elemento  
+\- Segundo elemento  
+\* Tercer elemento  
 
 Para hacerlas anidadas, se hace colocando cuatro espacios antes del siguiente elemento guión o el que pongas
 
