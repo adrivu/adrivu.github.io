@@ -113,6 +113,10 @@ Hay truquitos para el tema links, que es enlaces de referencia. Esto significa q
 \[Enlance\]\[Referencia\]
 \[Referencia\]: https://adrivu.github.io
 
+Si quieres mostrar los links, hazlo entre simbolos mayor que y menor que  
+<https://adrivu.github.io>  
+\<https://adrivu.github.io\>
+
 ---
 ### Citas
 
