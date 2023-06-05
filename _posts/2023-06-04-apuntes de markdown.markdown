@@ -163,3 +163,9 @@ Para meter imágenes se hace igual que para meter links, solo que con una exclam
 ![Carita sonriente](/_images/prueba.jpg)
 
 Comentar que también se puede hacer lo de las referencias, de ponerlas en un lugar del texto para no poner toda la ruta.
+
+---
+
+### Caracteres especiales
+
+Si quieres que se vean los caracteres especiales como almohadillas, debes colocar antes una barra invertida \
