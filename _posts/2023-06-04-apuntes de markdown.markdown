@@ -107,10 +107,10 @@ Esto va a ser el enlace: [Texto enlace](https://adrivu.github.io/)
 
 Hay truquitos para el tema links, que es enlaces de referencia. Esto significa que puedes hacer una llamada a tu link más corta.
 
-[Enlance][Referencia]
+[Enlance][Referencia]  
 [Referencia]: https://adrivu.github.io
 
-\[Enlance\]\[Referencia\]
+\[Enlance\]\[Referencia\]  
 \[Referencia\]: https://adrivu.github.io
 
 Si quieres mostrar los links, hazlo entre simbolos mayor que y menor que  
