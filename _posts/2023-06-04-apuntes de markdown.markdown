@@ -107,7 +107,7 @@ Esto va a ser el enlace: [Texto enlace](adrivu.github.io)
 
 Si quieres que se vea la URL, deber poner el texto entre paréntesis  
 \<adrivu.github.io\>  
-<adrivu.github.io>
+<adrivu.github.io>  
 
 De esta manera también puedes colocar emails muy fácilmente.  
 \<adrivu@gmail.com\>  
