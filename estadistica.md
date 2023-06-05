@@ -12,4 +12,4 @@ Desde el final de mi etapa universitaria me llama la atención todo el mundo de 
 
 La idea de esta web es tener un sitio en el que recopilar toda la información que voy a ir adquiriendo al aprender todos estos temas y otros que vayan surgiendo. Quien me quiera acompañar ¡es más que bienvenido!
 
-[Prueba del enlace](prueba.md)
+[Prueba del enlace](/_posts/2023-06-05-estadistica-desciptiva.markdown)
