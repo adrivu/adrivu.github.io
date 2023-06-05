@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Markdown"
-date:   2023-06-01 21:22:11 +0200
+date:   2023-06-04 21:22:11 +0200
 categories: jekyll update
 ---
 En esta sección encontraréis cómo escribir la sintáxis básica de __markdown__, que será la empleada para escribir este blog
@@ -80,13 +80,13 @@ Para esto, basta con escribir la línea entre comillas invertidas, que está en 
 Si el texto que vamos a usar ya tiene comillas, debemos utilizar comillas dobles.
 
 \`\`texto con \`comillas\` \`\`  
-``texto con \`comillas\` ``
+``texto con `comillas` ``
 
 ---
 ### Bloques de código
 
 Para añadir más de una línea de código, basta con colocar tres comillas en las lineas anterior y posterior al código  
-\`\`\`
+\`\`\`  
 x=5  
 y=3  
 print(sum(x+y))  
@@ -102,15 +102,25 @@ print(sum(x+y))
 
 Para colocar enlaces lo que debe hacer es colocar entre corchetes el texto y después entre paréntesis la URL
 
-Esto va a ser el enlace: \[Texto enlace\]\(URL\)  
-Esto va a ser el enlace: [Texto enlace](URL)
+Esto va a ser el enlace: \[Texto enlace\]\(adrivu.github.io\)  
+Esto va a ser el enlace: [Texto enlace](adrivu.github.io)
 
 Si quieres que se vea la URL, deber poner el texto entre paréntesis  
-\<URL\>  
-<URL>
+\<adrivu.github.io\>  
+<adrivu.github.io>
 
 De esta manera también puedes colocar emails muy fácilmente.  
 \<adrivu@gmail.com\>  
 <adrivu@gmail.com>
 
-Por último, también puedes hacer noseque de unos encabezados que miro luego.
+Por último, también puedes enlazar a puntos específicos de la propia página u otras, poniendo \# y el id de lo que quieres enlazar
+
+Prueba de la sección de [negrita](#negrita)
+
+---
+### Títulos del enlace
+
+Puedes hacer que al colocar el ratón encima de un enlace salga cierto texto. Para esto, después del enlace debes poner el texto que quieres que salga con comillas dobles.
+
+[Página](adrivu.github.io) "La MEJOR página"  
+\[Página\]\(adrivu.github.io\) \"La MEJOR página\"
