@@ -35,7 +35,7 @@ plugins:
 header_pages:
   - index.md
   - estadistica.md
-  - machine learning.md
+  - machine_learning.md
   - industria.md
   - about.md
 
