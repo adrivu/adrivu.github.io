@@ -105,16 +105,3 @@ Para colocar enlaces lo que debe hacer es colocar entre corchetes el texto y des
 Esto va a ser el enlace: \[Texto enlace\]\(adrivu.github.io\)  
 Esto va a ser el enlace: [Texto enlace](adrivu.github.io)
 
-Si quieres que se vea la URL, deber poner el texto entre paréntesis  
-\<adrivu.github.io\>  
-<adrivu.github.io>  
-
-De esta manera también puedes colocar emails muy fácilmente.  
-\<adrivu@gmail.com\>  
-<adrivu@gmail.com>  
-
-Por último, también puedes enlazar a puntos específicos de la propia página u otras, poniendo \# y el id de lo que quieres enlazar
-
-Prueba de la sección de [negrita](#negrita)
-
----
