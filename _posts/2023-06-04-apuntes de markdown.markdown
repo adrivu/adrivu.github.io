@@ -110,8 +110,8 @@ Esto va a ser el enlace: [Texto enlace](https://adrivu.github.io/)
 
 Para una cita, basta con colocar el símbolo mayor que antes del texto. También puedes colocar varios mayor que para crear citas anidadas
 
-\> Solo se que no se nada  
-> Solo se que no se nada
+\> Solo sé que no se nada  
+> Solo sé que no se nada
 
 ### Listas
 
@@ -124,3 +124,17 @@ Hay dos tipos de listas. Las desordenadas debes colocar antes de cada elemento u
 \+ Primer elemento
 \- Segundo elemento
 \* Tercer elemento
+
+Para hacerlas anidadas, se hace colocando cuatro espacios antes del siguiente elemento guión o el que pongas
+
++ Primer elemento
+    + Segundo elemento
++ Tercer elemento
+
+Para las listas ordenadas se coloca el número y un punto. Estas listas también se pueden anidar y  combinar
+
+1. Primero
+2. Segundo
+    + Segundo bis
+3. Tercero
+
