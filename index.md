@@ -10,4 +10,4 @@ Esto será mi landing page. Voy a empezar por unos [apuntes de markdown](/_posts
 
 [Prueba del enlace](industria.md)
 
-[Apuntes markdown](/prueba.md)
+[Apuntes markdown](/markdown.md)
