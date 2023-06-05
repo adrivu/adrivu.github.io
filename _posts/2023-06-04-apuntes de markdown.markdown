@@ -160,7 +160,7 @@ Para meter imágenes se hace igual que para meter links, solo que con una exclam
 
 \!\[Esto es el texto alternativo\]\(Ruta de la imagen\)
 
-![Carita sonriente](/prueba.jpg)
+![Carita sonriente](/imagenes/prueba.jpg)
 
 Comentar que también se puede hacer lo de las referencias, de ponerlas en un lugar del texto para no poner toda la ruta.
 
