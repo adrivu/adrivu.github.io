@@ -159,4 +159,7 @@ Para las listas ordenadas se coloca el número y un punto. Estas listas también
 Para meter imágenes se hace igual que para meter links, solo que con una exclamación al principio
 
 \!\[Esto es el texto alternativo\]\(Ruta de la imagen\)
+
 ![Carita sonriente](/_images/Prueba.jpg)
+
+Comentar que también se puede hacer lo de las referencias, de ponerlas en un lugar del texto para no poner toda la ruta.
