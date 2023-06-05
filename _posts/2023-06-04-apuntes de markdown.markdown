@@ -105,6 +105,14 @@ Para colocar enlaces lo que debe hacer es colocar entre corchetes el texto y des
 Esto va a ser el enlace: \[Texto enlace\]\(https://adrivu.github.io/\)  
 Esto va a ser el enlace: [Texto enlace](https://adrivu.github.io/)
 
+Hay truquitos para el tema links, que es enlaces de referencia. Esto significa que puedes hacer una llamada a tu link más corta.
+
+[Enlance][Referencia]
+[Referencia]: https://adrivu.github.io
+
+\[Enlance\]\[Referencia\]
+\[Referencia\]: https://adrivu.github.io
+
 ---
 ### Citas
 
