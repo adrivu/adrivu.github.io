@@ -111,16 +111,10 @@ Si quieres que se vea la URL, deber poner el texto entre paréntesis
 
 De esta manera también puedes colocar emails muy fácilmente.  
 \<adrivu@gmail.com\>  
-<adrivu@gmail.com>
+<adrivu@gmail.com>  
 
 Por último, también puedes enlazar a puntos específicos de la propia página u otras, poniendo \# y el id de lo que quieres enlazar
 
 Prueba de la sección de [negrita](#negrita)
 
 ---
-### Títulos del enlace
-
-Puedes hacer que al colocar el ratón encima de un enlace salga cierto texto. Para esto, después del enlace debes poner el texto que quieres que salga con comillas dobles.
-
-[Página](adrivu.github.io) "La MEJOR página"  
-\[Página\]\(adrivu.github.io\) \"La MEJOR página\"
