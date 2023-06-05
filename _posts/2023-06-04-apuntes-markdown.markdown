@@ -183,5 +183,5 @@ Para hacer una tabla
 Para alinear, dos puntos donde quieras alinear, antes después o a los dos lados de los tres guiones que separan la cabecera
 
 ---
-iyg
+
 Con esto deberíamos estar listos para empezar, volvamos al [hub](index.md)
