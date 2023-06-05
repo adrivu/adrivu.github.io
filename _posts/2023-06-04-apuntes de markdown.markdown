@@ -186,4 +186,3 @@ Para alinear, dos puntos donde quieras alinear, antes después o a los dos lados
 
 Con esto deberíamos estar listos para empezar, volvamos al [hub](/index.md)
 
-dfasd
