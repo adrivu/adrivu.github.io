@@ -102,6 +102,13 @@ print(sum(x+y))
 
 Para colocar enlaces lo que debe hacer es colocar entre corchetes el texto y después entre paréntesis la URL
 
-Esto va a ser el enlace: \[Texto enlace\]\(adrivu.github.io\)  
-Esto va a ser el enlace: [Texto enlace](adrivu.github.io)
+Esto va a ser el enlace: \[Texto enlace\]\(https://adrivu.github.io/\)  
+Esto va a ser el enlace: [Texto enlace](https://adrivu.github.io/)
 
+---
+### Citas
+
+Para una cita, basta con colocar el símbolo mayor que antes del texto. También puedes colocar varios mayor que para crear citas anidadas
+
+\> Solo se que no se nada  
+> Solo se que no se nada
