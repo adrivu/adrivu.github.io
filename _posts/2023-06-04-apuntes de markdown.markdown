@@ -162,10 +162,25 @@ Para meter imágenes se hace igual que para meter links, solo que con una exclam
 
 ![Carita sonriente](/imagenes/prueba.jpg "Carita")
 
-Comentar que también se puede hacer lo de las referencias, de ponerlas en un lugar del texto para no poner toda la ruta. aaaa
+Comentar que también se puede hacer lo de las referencias, de ponerlas en un lugar del texto para no poner toda la ruta. 
 
 ---
 
 ### Caracteres especiales
 
 Si quieres que se vean los caracteres especiales como almohadillas, debes colocar antes una barra invertida \
+
+---
+### Tablas
+
+Para hacer una tabla
+
+|Cabecera|Otra|
+|---|:---:|
+|Elemento|otra mas|
+|otra cosa|y última|
+
+Para alinear, dos puntos donde quieras alinear, antes después o a los dos lados de los tres guiones que separan la cabecera
+
+---
+Con esto deberíamos estar listos para empezar, empezamos
