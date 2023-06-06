@@ -4,9 +4,15 @@
 
 layout: home
 ---
-Hola, esto es una prueba.
+Bienvenidos a mi página web. Aquí pretendo recopilar un compendio de todos los temas que iré aprendiendo por mi cuenta a través del tiempo.
 
-Esto será mi landing page. Voy a empezar por unos [apuntes de markdown](/_posts/2023-06-04-apuntes-markdown.markdown)
+### Índice de contenidos
+
++ [Estadística](industria.md)
++ [Machine Learning](machine_learning.md)
++ [Industria](industria.md)
+
+Esto será mi landing page. Voy a empezar por unos [apuntes de markdown](/markdown.md)
 
 [Prueba del enlace](industria.md)
 
