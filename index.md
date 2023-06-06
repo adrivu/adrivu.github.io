@@ -26,8 +26,53 @@ A continuación tenemos el índice de contenidos, donde aparecerá resumida toda
         + Representación gráfica de los datos
     + Estadística inferencial
         + Probabilidad y distribuciones
+        + Intervalos de confianza
+        + Pruebas de hipótesis
+        + Regresión y correlación
+    + Otros temas de estadística
+        + Diseño de experimentos
+        + Muestro y estimación
+        + Análisis de series temporales
+        + Análisis multivariante
+        + Métodos Bayesianos
+        + Análisis de datos espaciales
 + [Machine Learning](machine_learning.md)
+    + Fundamentos de Machine Learning
+        + Introducción al Machine Learning
+        + Proprocesamiendo de datos
+        + Evaluación y selección de modelos
+    + Aprendizaje supervisado
+        + Regresión lineal
+        + Regresión logística
+        + Arboles de decisión y random forest
+        + Máquinas de soporte vectorial (SVM)
+    + Aprendizaje no supervisado
+        + Clustering
+        + Análisis de componenetes principales (PCA)
+        + Asociación de reglas (?)
+    + Temas avanzados de Machine Learning
+        + Aprendizaje profundo (Deep Learning)
+        + Procesamiento del lenguaje natural (NLP)
+        + Aprendizaje por refuerzo
+        + Aprendizaje semi-supervisado
 + [Industria](industria.md)
+    + Lean Manufacturing
+        + Principios del Lean Manufacturing
+        + Herramientas Lean
+        + Mejora continua
+    + Six Sigma
+        + Metodología DMAIC
+        + Medición y análisis
+        + Control de calidad
+    + Integración de técnicas estadísticas y ML en la industria
+        + Optimización de procesos
+        + Predicción y pronóstico
+        + Análisis en tiempo real
+    + Gestión de la cadena de suministro
+        + Mejora de la eficiencia en la cadena de suministro
+        + Optimización de inventarios
+        + Pronóstico de demanda
+
 
 Esto será mi landing page. Voy a empezar por unos [apuntes de markdown](/markdown.md)
 
