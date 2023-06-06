@@ -4,21 +4,17 @@ title: Estadística
 permalink: /Estadística/
 ---
 
-"¡Bienvenido a la sección de Estadística! En este fascinante mundo de los números y los datos, te adentrarás en los fundamentos y las aplicaciones de la estadística, una disciplina esencial en el análisis y la interpretación de información.
+Bienvenido a la sección de Estadística. En este apartado, exploraremos los conceptos y aplicaciones básicas de la estadística, una disciplina fundamental en el análisis e interpretación de datos.
 
-En esta sección, exploraremos los conceptos básicos de la estadística descriptiva, que nos permitirán comprender y resumir conjuntos de datos, así como visualizarlos de manera efectiva. Aprenderás sobre las medidas de tendencia central, como la media y la mediana, y las medidas de dispersión, como la desviación estándar y el rango.
+Comenzaremos con la estadística descriptiva, que nos permite resumir conjuntos de datos y visualizarlos de manera efectiva. Aprenderás sobre medidas de tendencia central, como la media y la mediana, y medidas de dispersión, como la desviación estándar y el rango.
 
-Pero no nos detendremos ahí. También te sumergirás en la estadística inferencial, donde aprenderás a sacar conclusiones sobre una población a partir de una muestra. Descubrirás conceptos clave como la probabilidad, las distribuciones de probabilidad y cómo utilizarlas para realizar pruebas de hipótesis y construir intervalos de confianza.
+Avanzaremos hacia la estadística inferencial, donde aprenderás a realizar conclusiones sobre una población a partir de una muestra. Exploraremos conceptos como la probabilidad, las distribuciones de probabilidad, las pruebas de hipótesis y la construcción de intervalos de confianza.
 
-Además, exploraremos el emocionante mundo de la regresión y la correlación, donde podrás analizar y modelar las relaciones entre variables. Aprenderás a realizar predicciones y estimaciones utilizando modelos lineales y no lineales.
+También exploraremos el análisis de regresión y correlación, que te permitirá examinar y modelar las relaciones entre variables. Aprenderás a hacer predicciones y estimaciones utilizando modelos lineales y no lineales.
 
-Pero no nos detendremos ahí. También abordaremos temas avanzados de estadística, como el Diseño de Experimentos (DOE), el análisis de series temporales, el análisis multivariante, los métodos Bayesianos y el análisis de datos espaciales. Estas herramientas te permitirán profundizar en el estudio de fenómenos complejos y realizar análisis más sofisticados.
+Además, abordaremos temas avanzados como el Diseño de Experimentos (DOE), el análisis de series temporales, el análisis multivariante, los métodos Bayesianos y el análisis de datos espaciales. Estas herramientas te proporcionarán un enfoque más profundo para estudiar fenómenos complejos y realizar análisis más sofisticados.
 
-Ya seas un principiante curioso o un profesional en busca de refrescar tus conocimientos, esta sección te proporcionará una base sólida en estadística y te equipará con habilidades prácticas para comprender, analizar y tomar decisiones fundamentadas basadas en datos.
-
-¡Prepárate para explorar el fascinante mundo de la estadística y desbloquear el poder de los números!"
-
-Recuerda personalizar y ajustar este texto según tus necesidades y estilo. ¡Espero que te sea útil para introducir la sección de Estadística en tu página web!
+### Índice de contenidos
 
  + [Estadística descriptiva](/estadistica/estadistica-descriptiva.md)
     + Conceptos básicos
