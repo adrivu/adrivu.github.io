@@ -9,6 +9,7 @@ Bienvenidos a mi página web. Aquí pretendo recopilar un compendio de todos los
 ### Índice de contenidos
 
 + [Estadística](industria.md)
+    +[Estadística descriptiva](/estadistica/estadistica-descriptiva.md)
 + [Machine Learning](machine_learning.md)
 + [Industria](industria.md)
 
