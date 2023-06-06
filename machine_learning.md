@@ -13,3 +13,27 @@ Desde el final de mi etapa universitaria me llama la atención todo el mundo de 
 La idea de esta web es tener un sitio en el que recopilar toda la información que voy a ir adquiriendo al aprender todos estos temas y otros que vayan surgiendo. Quien me quiera acompañar ¡es más que bienvenido!
 
 [Prueba del enlace](prueba.md)
+
+
++ Fundamentos de Machine Learning
+    + Introducción al Machine Learning
+    + Proprocesamiendo de datos
+    + Evaluación y selección de modelos
++ Aprendizaje supervisado
+    + Regresión lineal
+    + Regresión logística
+    + Arboles de decisión y random forest
+    + Máquinas de soporte vectorial (SVM)
++ Aprendizaje no supervisado
+    + Clustering
+    + Análisis de componenetes principales (PCA)
+    + Asociación de reglas (?)
++ Temas avanzados de Machine Learning
+    + Aprendizaje profundo (Deep Learning)
+    + Procesamiento del lenguaje natural (NLP)
+    + Aprendizaje por refuerzo
+    + Aprendizaje semi-supervisado
+
+
+
+[Retorno al hub](/)

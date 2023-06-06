@@ -12,4 +12,23 @@ Desde el final de mi etapa universitaria me llama la atención todo el mundo de 
 
 La idea de esta web es tener un sitio en el que recopilar toda la información que voy a ir adquiriendo al aprender todos estos temas y otros que vayan surgiendo. Quien me quiera acompañar ¡es más que bienvenido!
 
-[Prueba del enlace](prueba.md)
+
++ Lean Manufacturing
+    + Principios del Lean Manufacturing
+    + Herramientas Lean
+    + Mejora continua
++ Six Sigma
+    + Metodología DMAIC
+    + Medición y análisis
+    + Control de calidad
++ Integración de técnicas estadísticas y ML en la industria
+    + Optimización de procesos
+    + Predicción y pronóstico
+    + Análisis en tiempo real
++ Gestión de la cadena de suministro
+    + Mejora de la eficiencia en la cadena de suministro
+    + Optimización de inventarios
+    + Pronóstico de demanda
+
+
+[Retorno al hub](/)
