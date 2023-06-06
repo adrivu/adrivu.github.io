@@ -4,16 +4,21 @@ title: Machine Learning
 permalink: /Machine Learning/
 ---
 
-Hola a todos. Soy Adrián Viñuela Udaondo, y esto es mi primera prueba de creación de una página web. Aquí pienso ir colocando todo lo que vaya aprendiendo a lo largo de este tiempo.
+Bienvenido a la sección de Machine Learning. En este espacio, nos adentraremos en los fundamentos y las técnicas del aprendizaje automático, una disciplina que busca capacitar a las máquinas para aprender y tomar decisiones basadas en datos.
 
-Soy ingeniero mecánico desde el 2020 e ingeniero industrial desde el 2022, y trabajo como ingeniero industrial en una fundición de hierro nodular para el sector eólico.
+Comenzaremos con una introducción al Machine Learning, donde exploraremos los conceptos clave y los algoritmos fundamentales. Aprenderás sobre el preprocesamiento de datos, un paso esencial para garantizar la calidad y la eficacia de tus modelos.
 
-Desde el final de mi etapa universitaria me llama la atención todo el mundo de la ingeniería de procesos, concretamente desde una clase en la que hablamos sobre el **Six Sigma**. Desde entonces he ido profundizando en ese tema, hasta descubrir que de toda esa metodología lo que más me llama la atención es la fase de análisis. Ahí descubrí el poder de la **estadística**, que resultó ser una ciencia más que interesante. Al seguir profundizando, descubrí que la estadística tradicional se ha quedado un poco anticuada, utilizandose sólamente para ámbitos de investigación. En la industria, lo que era la estadística está poco a poco evolucionando hacia el **Machine Learning**, que es un conjunto de técnicas y algoritmos con los que podemos casi predecir el futuro.
+Avanzaremos hacia el aprendizaje supervisado, donde te sumergirás en técnicas como la regresión lineal y logística, los árboles de decisión y los bosques aleatorios, así como las Máquinas de Vectores de Soporte (SVM). Estas herramientas te permitirán realizar predicciones y clasificaciones basadas en patrones previos.
 
-La idea de esta web es tener un sitio en el que recopilar toda la información que voy a ir adquiriendo al aprender todos estos temas y otros que vayan surgiendo. Quien me quiera acompañar ¡es más que bienvenido!
+También exploraremos el aprendizaje no supervisado, donde te adentrarás en técnicas de clustering, como el K-means, el análisis de componentes principales (PCA) para reducir la dimensionalidad y la asociación de reglas para descubrir relaciones ocultas en los datos.
 
-[Prueba del enlace](prueba.md)
+Una vez establecidas las bases, profundizaremos en temas más avanzados, como el aprendizaje profundo (Deep Learning), donde descubrirás redes neuronales convolucionales (CNN) para el procesamiento de imágenes y redes neuronales recurrentes (RNN) para el análisis de secuencias. Exploraremos el procesamiento del lenguaje natural (NLP), los modelos de lenguaje y embeddings, así como otros temas avanzados como el aprendizaje por refuerzo, el aprendizaje semi-supervisado y activo, y el aprendizaje automático interpretativo y ético.
 
+Ya sea que estés comenzando tu viaje en el aprendizaje automático o desees ampliar tus conocimientos, esta sección te proporcionará las bases necesarias y las habilidades prácticas para aplicar técnicas de Machine Learning en diferentes contextos.
+
+Prepárate para adentrarte en el mundo del aprendizaje automático y desbloquear el potencial de los algoritmos inteligentes.
+
+### Índice de contenidos
 
 + Fundamentos de Machine Learning
     + Introducción al Machine Learning
