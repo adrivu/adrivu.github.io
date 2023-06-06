@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Estadística
-permalink: /Estadística/
+title: Medidas de tendencia central
+permalink: /Medidas de tendencia central/
 ---
 
 Bienvenido a la sección de Estadística. En este apartado, exploraremos los conceptos y aplicaciones básicas de la estadística, una disciplina fundamental en el análisis e interpretación de datos.
@@ -18,7 +18,7 @@ Además, abordaremos temas avanzados como el Diseño de Experimentos (DOE), el a
 
  + [Estadística descriptiva](/estadistica/estadistica-descriptiva.md)
     + Conceptos básicos
-    + [Medidas de tendencia central](/estadistica/estadistica-descriptiva/tendencia-central.md)
+    + Medidas de tendencia central
     + Medidas de dispersión
     + Representación gráfica de los datos
 + Estadística inferencial

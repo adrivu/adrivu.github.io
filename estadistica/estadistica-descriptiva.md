@@ -20,4 +20,11 @@ Ya sea que estés comenzando a adentrarte en el mundo de la estadística o desee
 
 Prepárate para explorar la estadística descriptiva y descubrir cómo puedes utilizarla para obtener información valiosa a partir de tus conjuntos de datos.
 
+### Temas  a tratar:
+
++ Conceptos básicos
++ [Medidas de tendencia central](/estadistica/estadistica-descriptiva/tendencia-central.md)
++ Medidas de dispersión
++ Representación gráfica de los datos
+
 Con esto deberíamos estar listos para empezar, volvamos al [hub](/)
