@@ -18,33 +18,29 @@ Veamos algunas de las medias más utilizadas:
 
 |Nombre|Ecuación|Definición|Usos|
 |:---:|:---:|:---:|:---:|
-|Aritmética|Imagen de aritmética|Es la media más común|Para longitudes, pesos...|
-|Recortada|Imagen de media recortada|Se eliminan los valores α% más grandes y pequeños|Para eliminar valores atípicos|
-|Ponderada|Imagen de media ponderada|Para dar más importancia o peso a algún valor|Centros de masas, exámenes con ponderación distinta|
-|Geométrica|Imagen de media geométrica|Fundamentalmente en economía|Promediar porcentajes|
-|Armónica|Imagen de armónica|Para datos que vienen en proporciones|km/h, kg/m3|
+|Aritmética|=(x1+x2+...+xn)/n|Es la media más común|Para longitudes, pesos...|
+|Recortada|Igual que aritmética sin extremos|Se eliminan los valores α% más grandes y pequeños|Para eliminar valores atípicos|
+|Ponderada|(x1w1+x2w2+...+xnwn)/(w1+w2+...+wn)|Para dar más importancia o peso a algún valor|Centros de masas, exámenes con ponderación distinta|
+|Geométrica|(x1x2...xn)^(1/n)|Fundamentalmente en economía|Promediar porcentajes|
+|Armónica|n/(1/x1+1/x2+...+1/xn)|Para datos que vienen en proporciones|km/h, kg/m3|
 
+Dos caracterísiticas clave
++ Si sumamos a cada observación una constante k, la media será la media anterior mas k
++ Si multiplicamos a cada observación una constante k, la media será la media anterior multiplicada por k
+ 
+La media es **el centro de gravedad** de la distribución
 
+### Mediana
+La mediana es el valor que al ordenar los datos deja al 50% a su izquierda y al otro 50% a su derecha. Su valor será el del valor central si es impar X_(n+1)/2 y haciendo la media de los dos valores centrales si es par (X_(n+1)/2  +  X_(n)/2)/2
 
+La mediana se suele usar para ver si la media no está demasiado afectada por los valores extremos, debido a que la media es muy poco robusta respecto a la mediana.
 
-#### Media aritmética
+Ejemplo:
++ 1, 2, 2, 2, 2, 2, 3, 4, 90
+    - Mediana = 2
+    - Media = 12
 
-Esta es la más utilizada con diferencia, y se basa en sumar todas las observaciones y dividir entre el número de observaciones. 
+Esto no es tan extraño que suceda en el mundo industrial, debido a malas lecturas de sensores o simplemente situaciones extraordinarias que no tienen por qué ser tenidas en cuenta en los estudios.
 
-
-
-Comenzaremos por comprender el concepto de medida de tendencia central y su importancia en la descripción de datos. Aprenderás sobre la media aritmética, que calcula el valor promedio de un conjunto de datos al sumar todos los valores y dividirlos por el número total de observaciones.
-
-Continuaremos con la mediana, que se define como el valor que se encuentra en el centro de un conjunto de datos ordenados. Exploraremos cómo la mediana es menos sensible a los valores atípicos en comparación con la media y cómo se utiliza en situaciones en las que los datos están sesgados.
-
-También abordaremos la moda, que representa el valor o valores que ocurren con mayor frecuencia en un conjunto de datos. Aprenderás cómo identificar la moda en diferentes tipos de distribuciones y su utilidad para describir la concentración de valores en una variable.
-
-Además, exploraremos medidas de tendencia central menos comunes, como la media truncada y la media ponderada. Estas medidas nos permiten obtener una representación más precisa del valor central cuando los datos presentan peculiaridades o cuando se requiere dar más peso a ciertas observaciones.
-
-En esta sección, también discutiremos las ventajas y las limitaciones de cada medida de tendencia central, y cómo seleccionar la más adecuada según el tipo de datos y el objetivo del análisis.
-
-Ya sea que estés comenzando a adentrarte en el mundo de la estadística o desees profundizar tus conocimientos sobre las medidas de tendencia central, esta sección te proporcionará las bases necesarias y las habilidades prácticas para comprender y calcular estas medidas en tus conjuntos de datos.
-
-Prepárate para explorar las medidas de tendencia central y descubrir cómo utilizarlas para comprender y resumir la información contenida en tus datos.
 
 [Retorno al hub](/)
