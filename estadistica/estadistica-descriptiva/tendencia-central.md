@@ -54,3 +54,7 @@ Son similares a la media, solo que en lugar de dividir al 50% hacia cada lado, d
 
 
 $\sqrt{3x-1}+(1+x)^2$
+
+```math
+\sqrt{3}
+```
