@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Medidas de tendencia central
-permalink: /Medidas de tendencia central/
+title: Medidas de dispersión
+permalink: /Medidas de dispersión/
 ---
 
-Bienvenido al apartado de Medidas de Tendencia Central. Estas medidas son capaces de centralizar la información en un solo valor, de ahí su nombre. Son extremadamente útiles a la hora de comparar variables. A continuación veremos las más representativas.
+Bienvenido al apartado de Medidas de Dispersión. Estas medidas son capaces de arrojar información sobre lo cerca o lejos que están los distintos valores. Son necesarias a la hora de conocer la dispersión de una variable. Por ejemplo el conjunto -1000 y 1000 tienen de media 0, y el conjunto -1 y 1 también, pero su distribución es muy distinta.
 
 ### Media
 
@@ -51,6 +51,3 @@ La moda es el valor que mas veces se repite. En el ejemplo anterior la moda tamb
 Son similares a la media, solo que en lugar de dividir al 50% hacia cada lado, divide en otras proporciones. Los más famosos son los cuartiles, que dividen al 25, 50 y 75%, y los percentiles, que son cada 1%.
 
 [Retorno al hub](/)
-
-
-$\sqrt{3x-1}+(1+x)^2$
