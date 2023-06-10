@@ -19,7 +19,7 @@ Además, abordaremos temas avanzados como el Diseño de Experimentos (DOE), el a
  + [Estadística descriptiva](/estadistica/estadistica-descriptiva.md)
     + Conceptos básicos
     + [Medidas de tendencia central](/estadistica/estadistica-descriptiva/tendencia-central.md)
-    + Medidas de dispersión
+    + [Medidas de dispersión](/estadistica/estadistica-descriptiva/dispersion.md)
     + Representación gráfica de los datos
 + Estadística inferencial
     + Probabilidad y distribuciones

@@ -24,7 +24,7 @@ Prepárate para explorar la estadística descriptiva y descubrir cómo puedes ut
 
 + Conceptos básicos
 + [Medidas de tendencia central](/estadistica/estadistica-descriptiva/tendencia-central.md)
-+ Medidas de dispersión
++ [Medidas de dispersión](/estadistica/estadistica-descriptiva/dispersion.md)
 + Representación gráfica de los datos
 
 Con esto deberíamos estar listos para empezar, volvamos al [hub](/)
