@@ -6,6 +6,22 @@ permalink: /Medidas de dispersión/
 
 Bienvenido al apartado de Medidas de Dispersión. Estas medidas son capaces de arrojar información sobre lo cerca o lejos que están los distintos valores. Son necesarias a la hora de conocer la dispersión de una variable. Por ejemplo el conjunto -1000 y 1000 tienen de media 0, y el conjunto -1 y 1 también, pero su distribución es muy distinta.
 
+### Varianza
+
+Es la medida más importante, conocida como S2 o σ2,  y su forma cálculo es:
+
+`(x1-x̄)^2+(x2-x̄)^2+...+(xn-x̄)^2/n`
+
+Con esto calculamos la distancia de cada valor a la media, y se hace al cuadrado para eliminar los valores negativos. 
+
+La **desviación estándar** es la raiz cuadrada de la varianza.
+
+Para los cálculos usualmente se usa la cuasivarianza, que en lugar de dividir por n divide por n-1.  
+
+La varianza tiene las siguientes características:  
+- Si se suma una constante a la variable, la varianza no cambia.
++ Su se multiplica una constante a la variable, la varianza es la antigua por la constante al cuadrado.
+
 ### Media
 
 Aunque lo llamemos la media, existen muchas medias. Para que una medida pueda ser llamada media se tienen que cumplir tres requisitos:
